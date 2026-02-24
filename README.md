@@ -34,7 +34,7 @@ Etape2_CCOI2026/
 │   └── 📁 <a href="./forensics/follow%20format/">follow format</a>
 │
 ├── 📁 <a href="./steganographie/">steganographie</a>
-│   └── 📁 <a href="./steganographie/unknown/">unknown</a>
+│   └── 📁 <a href="./steganographie/title_forgotten/">title forgotten</a>
 │
 ├── 📁 <a href="./OSINT/">OSINT</a>
 │   └── 📁 <a href="./OSINT/who_is_this_guy/">who_is_this_guy</a>
