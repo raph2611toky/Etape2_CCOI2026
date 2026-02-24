@@ -1,5 +1,5 @@
 
-# Writeup – Unknown
+# Writeup – Title forgotten
 
 ## Première observation
 
@@ -9,7 +9,7 @@ En ouvrant le fichier `challengefile-toprovide.pdf`, on remarque immédiatement 
 {\rtf1\fbidis\ansi\ansicpg1252...
 ```
 
-Le fichier n'est pas un PDF, c'est un **document RTF**. Le nom du challenge, *"unknown"*, nous invite justement à ne pas se fier à l'extension et à identifier le vrai format.
+Le fichier n'est pas un PDF, c'est un **document RTF**. Le nom du challenge, *"title forgotten"*, nous invite justement à ne pas se fier à l'extension et à identifier le vrai format.
 
 ---
 ![alt text](image.png)
